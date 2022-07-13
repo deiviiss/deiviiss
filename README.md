@@ -1,5 +1,4 @@
-### Hi there, I'm David Hilera 👋
-
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+David+Hilera+👋&vCenter=true&size=32&color=288BA8&duration=5000&width=800)](https://www.linkedin.com/in/deiviiss/)
 ## I'm a Software Developer from Mexico.
 - 🤓🧑🏽‍💻 I'm currently learning everything as much as possible.
 - 💻🛠️ I’m currently working as a backend developer.
