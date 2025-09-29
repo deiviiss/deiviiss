@@ -39,6 +39,18 @@
   width="26"
 />
 <img
+  align=""
+  src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"
+  alt="Next.js"
+  width="26"
+/>
+<img
+  align=""
+  src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"
+  alt="TypeScript"
+  width="26"
+/>
+<img
   aling="left"
   src="https://code.visualstudio.com/favicon.ico"
   alt="VSCode"
