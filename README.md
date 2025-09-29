@@ -28,26 +28,14 @@
 />
 <img
   aling="left"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-  alt="HTML5"
-  width="26"
-/>
-<img
-  aling="left"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-  alt="CSS3"
-  width="26"
-/>
-<img
-  aling="left"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
   alt="NodeJS"
   width="26"
 />
 <img
-  aling="left"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
-  alt="Docker"
+  align=""
+  src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"
+  alt="Python"
   width="26"
 />
 <img
@@ -64,14 +52,20 @@
 />
 <img
   aling="left"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"
-  alt="SQL"
+  src="https://github.com/fluidicon.png"
+  alt="GitHub"
   width="26"
 />
 <img
   aling="left"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-  alt="MongoDB"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+  alt="HTML5"
+  width="26"
+/>
+<img
+  aling="left"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+  alt="CSS3"
   width="26"
 />
 <img
@@ -82,14 +76,20 @@
 />
 <img
   aling="left"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
-  alt="NPM"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+  alt="Docker"
   width="26"
 />
 <img
   aling="left"
-  src="https://github.com/fluidicon.png"
-  alt="GitHub"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
+  alt="MongoDB"
+  width="26"
+/>
+<img
+  aling="left"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"
+  alt="NPM"
   width="26"
 />
 <img
