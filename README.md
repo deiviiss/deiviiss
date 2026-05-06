@@ -125,6 +125,12 @@
 
 ---
 
+### :zap Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=deiviiss&show_icons=true&theme=radical&count_private=true)](https://github.com/deiviiss)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deiviiss&layout=compact&theme=radical)](https://github.com/deiviiss)
