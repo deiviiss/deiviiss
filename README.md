@@ -130,6 +130,11 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/deiviiss/casa-quetzal/pull/13) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+2. 💪 Opened PR [#13](https://github.com/deiviiss/casa-quetzal/pull/13) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+3. 🎉 Merged PR [#12](https://github.com/deiviiss/casa-quetzal/pull/12) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+4. 💪 Opened PR [#12](https://github.com/deiviiss/casa-quetzal/pull/12) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+5. 🎉 Merged PR [#11](https://github.com/deiviiss/casa-quetzal/pull/11) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
 <!--END_SECTION:activity-->
 
 ---
