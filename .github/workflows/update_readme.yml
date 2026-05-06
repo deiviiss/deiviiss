@@ -24,7 +24,3 @@ jobs:
 env:
 
 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
