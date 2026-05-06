@@ -129,6 +129,9 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=deiviiss&show_icons=true&theme=radical&count_private=true)](https://github.com/deiviiss)
