@@ -1,13 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Update Readme
 
-# Controls when the workflow will run
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
 
 jobs:
   build:
@@ -15,12 +11,10 @@ jobs:
     name: Update Profile README
 
     steps:
-      
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-
-      - uses: jamesgeorge007/github-activity-readme@master
-
-    env:
-
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
