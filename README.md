@@ -125,10 +125,13 @@
 
 ---
 
-### :zap Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+![David's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deiviiss&show_icons=true&theme=radical&count_private=true)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deiviiss&layout=compact&theme=radical)
+
+---
+
+### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#13](https://github.com/deiviiss/casa-quetzal/pull/13) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
 2. 💪 Opened PR [#13](https://github.com/deiviiss/casa-quetzal/pull/13) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
@@ -136,11 +139,3 @@
 4. 💪 Opened PR [#12](https://github.com/deiviiss/casa-quetzal/pull/12) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
 5. 🎉 Merged PR [#11](https://github.com/deiviiss/casa-quetzal/pull/11) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
 <!--END_SECTION:activity-->
-
----
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=deiviiss&show_icons=true&theme=radical&count_private=true)](https://github.com/deiviiss)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deiviiss&layout=compact&theme=radical)](https://github.com/deiviiss)
-
-
