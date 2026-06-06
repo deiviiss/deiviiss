@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/deiviiss/casa-quetzal/pull/15) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
-2. 🎉 Merged PR [#3](https://github.com/deiviiss/workshop-git-control-versions/pull/3) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
-3. 💪 Opened PR [#3](https://github.com/deiviiss/workshop-git-control-versions/pull/3) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
-4. 🎉 Merged PR [#2](https://github.com/deiviiss/workshop-git-control-versions/pull/2) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
-5. 💪 Opened PR [#2](https://github.com/deiviiss/workshop-git-control-versions/pull/2) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
+1. 🎉 Merged PR [#5](https://github.com/deiviiss/workshop-git-control-versions/pull/5) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
+2. 💪 Opened PR [#5](https://github.com/deiviiss/workshop-git-control-versions/pull/5) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
+3. 💪 Opened PR [#15](https://github.com/deiviiss/casa-quetzal/pull/15) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+4. 🎉 Merged PR [#3](https://github.com/deiviiss/workshop-git-control-versions/pull/3) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
+5. 💪 Opened PR [#3](https://github.com/deiviiss/workshop-git-control-versions/pull/3) in [deiviiss/workshop-git-control-versions](https://github.com/deiviiss/workshop-git-control-versions)
 <!--END_SECTION:activity-->
