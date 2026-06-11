@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/deiviiss/dream-nails/pull/45) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
-2. 💪 Opened PR [#45](https://github.com/deiviiss/dream-nails/pull/45) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
-3. 🎉 Merged PR [#44](https://github.com/deiviiss/dream-nails/pull/44) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
-4. 💪 Opened PR [#44](https://github.com/deiviiss/dream-nails/pull/44) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
-5. 💪 Opened PR [#16](https://github.com/deiviiss/casa-quetzal/pull/16) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+1. 🎉 Merged PR [#47](https://github.com/deiviiss/dream-nails/pull/47) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
+2. 💪 Opened PR [#47](https://github.com/deiviiss/dream-nails/pull/47) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
+3. 🎉 Merged PR [#46](https://github.com/deiviiss/dream-nails/pull/46) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
+4. 💪 Opened PR [#46](https://github.com/deiviiss/dream-nails/pull/46) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
+5. 🎉 Merged PR [#45](https://github.com/deiviiss/dream-nails/pull/45) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
 <!--END_SECTION:activity-->
