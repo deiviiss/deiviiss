@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/deiviiss/esl-academic/pull/23) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-2. 💪 Opened PR [#23](https://github.com/deiviiss/esl-academic/pull/23) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-3. 🎉 Merged PR [#22](https://github.com/deiviiss/esl-academic/pull/22) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-4. 💪 Opened PR [#22](https://github.com/deiviiss/esl-academic/pull/22) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-5. 🎉 Merged PR [#21](https://github.com/deiviiss/esl-academic/pull/21) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+1. 🎉 Merged PR [#7](https://github.com/deiviiss/lanavy282.vercel.app/pull/7) in [deiviiss/lanavy282.vercel.app](https://github.com/deiviiss/lanavy282.vercel.app)
+2. 💪 Opened PR [#7](https://github.com/deiviiss/lanavy282.vercel.app/pull/7) in [deiviiss/lanavy282.vercel.app](https://github.com/deiviiss/lanavy282.vercel.app)
+3. 🎉 Merged PR [#23](https://github.com/deiviiss/esl-academic/pull/23) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+4. 💪 Opened PR [#23](https://github.com/deiviiss/esl-academic/pull/23) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+5. 🎉 Merged PR [#22](https://github.com/deiviiss/esl-academic/pull/22) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
 <!--END_SECTION:activity-->
