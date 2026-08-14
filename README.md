@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/deiviiss/lanavy282.vercel.app/pull/7) in [deiviiss/lanavy282.vercel.app](https://github.com/deiviiss/lanavy282.vercel.app)
-2. 💪 Opened PR [#7](https://github.com/deiviiss/lanavy282.vercel.app/pull/7) in [deiviiss/lanavy282.vercel.app](https://github.com/deiviiss/lanavy282.vercel.app)
-3. 🎉 Merged PR [#23](https://github.com/deiviiss/esl-academic/pull/23) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-4. 💪 Opened PR [#23](https://github.com/deiviiss/esl-academic/pull/23) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-5. 🎉 Merged PR [#22](https://github.com/deiviiss/esl-academic/pull/22) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+1. 💪 Opened PR [#6](https://github.com/deiviiss/tacomadre/pull/6) in [deiviiss/tacomadre](https://github.com/deiviiss/tacomadre)
+2. 🎉 Merged PR [#3](https://github.com/deiviiss/quekas-el-wero/pull/3) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
+3. ❌ Closed PR [#1](https://github.com/deiviiss/quekas-el-wero/pull/1) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
+4. 💪 Opened PR [#3](https://github.com/deiviiss/quekas-el-wero/pull/3) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
+5. 💪 Opened PR [#1](https://github.com/deiviiss/quekas-el-wero/pull/1) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
 <!--END_SECTION:activity-->
