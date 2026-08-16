@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/deiviiss/tacomadre/pull/6) in [deiviiss/tacomadre](https://github.com/deiviiss/tacomadre)
-2. 💪 Opened PR [#6](https://github.com/deiviiss/tacomadre/pull/6) in [deiviiss/tacomadre](https://github.com/deiviiss/tacomadre)
-3. 🎉 Merged PR [#3](https://github.com/deiviiss/quekas-el-wero/pull/3) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
-4. ❌ Closed PR [#1](https://github.com/deiviiss/quekas-el-wero/pull/1) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
-5. 💪 Opened PR [#3](https://github.com/deiviiss/quekas-el-wero/pull/3) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
+1. 🎉 Merged PR [#33](https://github.com/deiviiss/casa-quetzal/pull/33) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+2. 💪 Opened PR [#33](https://github.com/deiviiss/casa-quetzal/pull/33) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+3. 🎉 Merged PR [#6](https://github.com/deiviiss/tacomadre/pull/6) in [deiviiss/tacomadre](https://github.com/deiviiss/tacomadre)
+4. 💪 Opened PR [#6](https://github.com/deiviiss/tacomadre/pull/6) in [deiviiss/tacomadre](https://github.com/deiviiss/tacomadre)
+5. 🎉 Merged PR [#3](https://github.com/deiviiss/quekas-el-wero/pull/3) in [deiviiss/quekas-el-wero](https://github.com/deiviiss/quekas-el-wero)
 <!--END_SECTION:activity-->
