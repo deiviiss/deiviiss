@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/deiviiss/casa-quetzal/pull/34) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
-2. 💪 Opened PR [#34](https://github.com/deiviiss/casa-quetzal/pull/34) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
-3. 🎉 Merged PR [#24](https://github.com/deiviiss/esl-academic/pull/24) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-4. 💪 Opened PR [#24](https://github.com/deiviiss/esl-academic/pull/24) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-5. 🎉 Merged PR [#33](https://github.com/deiviiss/casa-quetzal/pull/33) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+1. 💪 Opened PR [#25](https://github.com/deiviiss/esl-academic/pull/25) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+2. 🎉 Merged PR [#34](https://github.com/deiviiss/casa-quetzal/pull/34) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+3. 💪 Opened PR [#34](https://github.com/deiviiss/casa-quetzal/pull/34) in [deiviiss/casa-quetzal](https://github.com/deiviiss/casa-quetzal)
+4. 🎉 Merged PR [#24](https://github.com/deiviiss/esl-academic/pull/24) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+5. 💪 Opened PR [#24](https://github.com/deiviiss/esl-academic/pull/24) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
 <!--END_SECTION:activity-->
