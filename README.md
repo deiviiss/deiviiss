@@ -133,9 +133,9 @@
 
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/deiviiss/esl-academic/pull/33) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-2. 💪 Opened PR [#33](https://github.com/deiviiss/esl-academic/pull/33) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-3. 🎉 Merged PR [#32](https://github.com/deiviiss/esl-academic/pull/32) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-4. 💪 Opened PR [#32](https://github.com/deiviiss/esl-academic/pull/32) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
-5. 🎉 Merged PR [#55](https://github.com/deiviiss/dream-nails/pull/55) in [deiviiss/dream-nails](https://github.com/deiviiss/dream-nails)
+1. 🎉 Merged PR [#1](https://github.com/deiviiss/fastapi-course-api/pull/1) in [deiviiss/fastapi-course-api](https://github.com/deiviiss/fastapi-course-api)
+2. 💪 Opened PR [#1](https://github.com/deiviiss/fastapi-course-api/pull/1) in [deiviiss/fastapi-course-api](https://github.com/deiviiss/fastapi-course-api)
+3. 🎉 Merged PR [#33](https://github.com/deiviiss/esl-academic/pull/33) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+4. 💪 Opened PR [#33](https://github.com/deiviiss/esl-academic/pull/33) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
+5. 🎉 Merged PR [#32](https://github.com/deiviiss/esl-academic/pull/32) in [deiviiss/esl-academic](https://github.com/deiviiss/esl-academic)
 <!--END_SECTION:activity-->
